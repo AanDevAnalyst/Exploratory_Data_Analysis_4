@@ -1,6 +1,6 @@
 **Task 2 📊: Exploratory Data Analysis (EDA) 🔍**
 **Description:**
-This project focuses on performing Exploratory Data Analysis (EDA) on the Bank Data Report in CSV format.
+This project focuses on performing Exploratory Data Analysis (EDA) on Bank Data Report in CSV format.
 The goal is to uncover meaningful trends, detect patterns, and generate descriptive statistics to better understand the dataset and support further data-driven decision-making.
 
 **Data Set:** Finance Sector Data Report
